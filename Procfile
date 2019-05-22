@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chelle_coin_web_3701.wsgi:application
